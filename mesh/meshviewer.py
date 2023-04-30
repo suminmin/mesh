@@ -46,7 +46,8 @@ import time
 import traceback
 
 import numpy as np
-from OpenGL import GL, GLU, GLUT
+# from OpenGL import GL, GLU, GLUT
+from OpenGL import GL, GLU 
 from OpenGL.arrays.vbo import VBO
 from PIL import Image
 import zmq
